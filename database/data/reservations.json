@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "chambre_id": 2,
+    "date_debut": "2026-10-09",
+    "date_fin": "2026-10-11",
+    "nb_personnes": 2,
+    "nom_client": "Mme Lemoine",
+    "statut": "confirmee",
+    "reference_externe": null
+  },
+  {
+    "id": 2,
+    "chambre_id": 6,
+    "date_debut": "2026-10-10",
+    "date_fin": "2026-10-12",
+    "nb_personnes": 2,
+    "nom_client": "M. Garnier",
+    "statut": "confirmee",
+    "reference_externe": null
+  },
+  {
+    "id": 3,
+    "chambre_id": 11,
+    "date_debut": "2026-10-09",
+    "date_fin": "2026-10-10",
+    "nb_personnes": 2,
+    "nom_client": "M. et Mme Roche",
+    "statut": "confirmee",
+    "reference_externe": null
+  },
+  {
+    "id": 4,
+    "chambre_id": 8,
+    "date_debut": "2026-10-16",
+    "date_fin": "2026-10-18",
+    "nb_personnes": 4,
+    "nom_client": "Famille Benali",
+    "statut": "confirmee",
+    "reference_externe": null
+  },
+  {
+    "id": 5,
+    "chambre_id": 6,
+    "date_debut": "2026-10-09",
+    "date_fin": "2026-10-10",
+    "nb_personnes": 1,
+    "nom_client": "M. Perrin",
+    "statut": "annulee",
+    "reference_externe": null
+  },
+  {
+    "id": 6,
+    "chambre_id": 12,
+    "date_debut": "2026-12-30",
+    "date_fin": "2027-01-02",
+    "nb_personnes": 4,
+    "nom_client": "Famille Marchand",
+    "statut": "confirmee",
+    "reference_externe": null
+  }
+]
