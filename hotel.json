@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "numero": "1A",
+    "categorie_id": 1,
+    "etage": 1,
+    "nb_couchages": 1,
+    "baignoire": false,
+    "prix_base": 59,
+    "description": "Lit simple, douche, vue sur cour."
+  },
+  {
+    "id": 2,
+    "numero": "1B",
+    "categorie_id": 1,
+    "etage": 1,
+    "nb_couchages": 2,
+    "baignoire": false,
+    "prix_base": 72,
+    "description": "Lit double, douche."
+  },
+  {
+    "id": 3,
+    "numero": "1C",
+    "categorie_id": 1,
+    "etage": 1,
+    "nb_couchages": 2,
+    "baignoire": true,
+    "prix_base": 78,
+    "description": "Lit double, baignoire."
+  },
+  {
+    "id": 4,
+    "numero": "1D",
+    "categorie_id": 2,
+    "etage": 1,
+    "nb_couchages": 3,
+    "baignoire": true,
+    "prix_base": 96,
+    "description": "Lit double et lit simple, baignoire."
+  },
+  {
+    "id": 5,
+    "numero": "2A",
+    "categorie_id": 1,
+    "etage": 2,
+    "nb_couchages": 1,
+    "baignoire": false,
+    "prix_base": 59,
+    "description": "Lit simple, douche, bureau."
+  },
+  {
+    "id": 6,
+    "numero": "2B",
+    "categorie_id": 2,
+    "etage": 2,
+    "nb_couchages": 2,
+    "baignoire": true,
+    "prix_base": 89,
+    "description": "Lit double, baignoire, vue sur la place."
+  },
+  {
+    "id": 7,
+    "numero": "2C",
+    "categorie_id": 2,
+    "etage": 2,
+    "nb_couchages": 2,
+    "baignoire": true,
+    "prix_base": 89,
+    "description": "Deux lits simples, baignoire."
+  },
+  {
+    "id": 8,
+    "numero": "2D",
+    "categorie_id": 2,
+    "etage": 2,
+    "nb_couchages": 4,
+    "baignoire": true,
+    "prix_base": 118,
+    "description": "Lit double et deux lits simples, baignoire."
+  },
+  {
+    "id": 9,
+    "numero": "3A",
+    "categorie_id": 2,
+    "etage": 3,
+    "nb_couchages": 2,
+    "baignoire": false,
+    "prix_base": 85,
+    "description": "Lit double, douche à l'italienne, sous les toits."
+  },
+  {
+    "id": 10,
+    "numero": "3B",
+    "categorie_id": 2,
+    "etage": 3,
+    "nb_couchages": 3,
+    "baignoire": true,
+    "prix_base": 104,
+    "description": "Lit double et lit simple, baignoire, sous les toits."
+  },
+  {
+    "id": 11,
+    "numero": "3C",
+    "categorie_id": 3,
+    "etage": 3,
+    "nb_couchages": 2,
+    "baignoire": true,
+    "prix_base": 165,
+    "description": "Suite, salon séparé, baignoire, vue sur la cathédrale."
+  },
+  {
+    "id": 12,
+    "numero": "3D",
+    "categorie_id": 3,
+    "etage": 3,
+    "nb_couchages": 4,
+    "baignoire": true,
+    "prix_base": 210,
+    "description": "Suite familiale, deux chambres, baignoire."
+  }
+]

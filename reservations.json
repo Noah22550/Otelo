@@ -1,0 +1,10 @@
+{
+  "nom": "Otelo",
+  "etoiles": 3,
+  "adresse": "8 place Bernard-Tissot",
+  "code_postal": "76000",
+  "ville": "Rouen",
+  "telephone": "02 35 00 77 88",
+  "email": "reception@otelo.example",
+  "description": "Hôtel de 12 chambres face à la gare, trois étages, petit-déjeuner en salle, local à vélos."
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "libelle": "Standard"
+  },
+  {
+    "id": 2,
+    "libelle": "Confort"
+  },
+  {
+    "id": 3,
+    "libelle": "Suite"
+  }
+]
