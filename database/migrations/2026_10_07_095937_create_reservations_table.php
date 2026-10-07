@@ -13,6 +13,13 @@ return new class extends Migration
     {
         Schema::create('reservations', function (Blueprint $table) {
             $table->id();
+            $table->foreignId('chambre_id')->constrained('chambres');
+            $table->date('date_debut');
+            $table->date('date_fin');
+            $table->integer('nb_personnes');
+            $table->string('nom_client');
+            $table->string('statut')->default('confirmee');
+            $table->string('reference_externe')->nullable()->unique();
             $table->timestamps();
         });
     }

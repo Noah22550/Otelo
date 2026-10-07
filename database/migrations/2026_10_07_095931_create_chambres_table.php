@@ -13,6 +13,13 @@ return new class extends Migration
     {
         Schema::create('chambres', function (Blueprint $table) {
             $table->id();
+            $table->string('numero')->unique();
+            $table->foreignId('categorie_id')->constrained('categories');
+            $table->integer('etage');
+            $table->integer('nb_couchages');
+            $table->boolean('baignoire')->default(false);
+            $table->double('prix_base');
+            $table->text('description')->nullable();
             $table->timestamps();
         });
     }
